@@ -4,7 +4,7 @@
 A Virtual Bank
 
 
-![Logo](https://github.com/ANURAG-PARMAR1/GrinBank/blob/master/icon.png?raw=true)
+![Logo](https://github.com/harshitbisht18/GrinBank/blob/main/logo.png?raw=true)
 
 
 ## Made With
@@ -20,14 +20,14 @@ A Virtual Bank
 
 ### Home Page 
 
-![App Screenshot](https://github.com/ANURAG-PARMAR1/GrinBank/blob/master/websiteHeader.png?raw=true) 
+![App Screenshot](https://github.com/harshitbisht18/GrinBank/blob/main/homePage.png?raw=true) 
 
 -> This is the home page of the website.
 
 ### Section 1
 
-![App Screenshot](https://github.com/ANURAG-PARMAR1/GrinBank/blob/master/features1.png?raw=true) 
-![App Screenshot](https://github.com/ANURAG-PARMAR1/GrinBank/blob/master/features2.png?raw=true) 
+![App Screenshot](https://github.com/harshitbisht18/GrinBank/blob/main/features1.png?raw=true) 
+![App Screenshot](https://github.com/harshitbisht18/GrinBank/blob/main/features2.png?raw=true) 
 
 -> This Section will appear on it's own as you scroll down.\
 -> In starting the image appears blurry but it beacomes visible as you scroll down.\
@@ -36,14 +36,14 @@ A Virtual Bank
 
 ### Section 2
 
-![App Screenshot](https://github.com/ANURAG-PARMAR1/GrinBank/blob/master/operations.png?raw=true) 
+![App Screenshot](https://github.com/harshitbisht18/GrinBank/blob/main/operations.png?raw=true) 
 
 -> This is operation section.\
 -> Different operation will appear on the screen when you'll click different operation buttons.
 
 ### Section 3
 
-![App Screenshot](https://github.com/ANURAG-PARMAR1/GrinBank/blob/master/testimonials.png?raw=true) 
+![App Screenshot](https://github.com/harshitbisht18/GrinBank/blob/main/testimonials.png?raw=true) 
 
 -> This Section shows testimonials given by Different people.\
 -> It is impleted using Slider, slider works on arrows, dot and keys.
@@ -51,7 +51,7 @@ A Virtual Bank
 
 ### FLow Chart
 
-![App Screenshot](https://github.com/ANURAG-PARMAR1/My-Bank/blob/master/GrinBank-flowchart.png?raw=true) 
+![App Screenshot](https://github.com/harshitbisht18/GrinBank/blob/main/Bankist-flowchart.png?raw=true) 
 
 -> A general overview of how the things are working.
 
@@ -63,20 +63,20 @@ A Virtual Bank
 
 ### Sign Up
 
-![App Screenshot](https://github.com/ANURAG-PARMAR1/GrinBank/blob/master/signup.png?raw=true) 
+![App Screenshot](https://github.com/harshitbisht18/GrinBank/blob/main/signup.png?raw=true) 
 
 -> A general overview of how the things are working.
 
 ### Title Bar
 
-![App Screenshot](https://github.com/ANURAG-PARMAR1/GrinBank/blob/master/Title.png?raw=true)
+![App Screenshot](https://github.com/harshitbisht18/GrinBank/blob/main/Title.png?raw=true)
 -> This section displays the user that is currently logged in and his total balance.
 
 
 
 ### Transfer Money
 
-![App Screenshot](https://github.com/ANURAG-PARMAR1/GrinBank/blob/master/Transfer.png?raw=true)
+![App Screenshot](https://github.com/harshitbisht18/GrinBank/blob/main/Transfer.png?raw=true)
 
 -> This function transfer money by taking User_name of the person whom you are transferring and amount that you want to transfer.
 
@@ -84,20 +84,20 @@ A Virtual Bank
 
 ### Request for Loan 
 
-![App Screenshot](https://github.com/ANURAG-PARMAR1/GrinBank/blob/master/Loan.png?raw=true)
+![App Screenshot](https://github.com/harshitbisht18/GrinBank/blob/main/Loan.png?raw=true)
 
 -> Loan is only provided if any of your deposit is greater than 10% of loan ammount. 
 
 
 ### Cloasing Account
 
-![App Screenshot](https://github.com/ANURAG-PARMAR1/GrinBank/blob/master/CloseAccount.png?raw=true)
+![App Screenshot](https://github.com/harshitbisht18/GrinBank/blob/main/CloseAccount.png?raw=true)
 
 -> You can close your account easily with your User_name and Pin.
 
 ### Footer
 
-![App Screenshot](https://github.com/ANURAG-PARMAR1/GrinBank/blob/master/Footer.png?raw=true)
+![App Screenshot](https://github.com/harshitbisht18/GrinBank/blob/main/Footer.png?raw=true)
 -> This section displays the total amount that is debited, credited and total intrest the bank is giving.\
 -> Sort function can be used to sort your Transactions.\
 -> A timer function is used which automatically logout the user after 5 min.
@@ -106,7 +106,7 @@ A Virtual Bank
 
 ### Home Page 
 
-![App Screenshot](https://github.com/ANURAG-PARMAR1/GrinBank/blob/master/inside.png?raw=true)
+![App Screenshot](https://github.com/harshitbisht18/GrinBank/blob/main/inside.png?raw=true)
 
 -> This is the home interface.
 
